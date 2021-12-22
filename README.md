@@ -9,9 +9,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -26,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/nnorbert19/frontendmentor_order_summary)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://order-summary-nnorbert.netlify.app/)
 
 ## My process
 
@@ -38,4 +35,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nnorbert19)
+- Frontend Mentor - [@Nagy Norbert](https://www.frontendmentor.io/profile/nnorbert19)
